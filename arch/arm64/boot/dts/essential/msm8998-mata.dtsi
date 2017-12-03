@@ -18,6 +18,7 @@
 #include "../qcom/msm8998-mdss-panels.dtsi"
 #include "dsi-panel-nt35597-dsc-wqxga-cmd-mata.dtsi"
 #include "dsi-panel-otm2503b-wqxga-cmd.dtsi"
+#include "msm8998-mata-lineage.dtsi"
 
 / {
 	aliases {
